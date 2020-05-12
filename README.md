@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/lovepreet-013/Udacity_Project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/lovepreet-013/Udacity_Project-ml-microservice-kubernetes)
 
 ## Project Overview
 
