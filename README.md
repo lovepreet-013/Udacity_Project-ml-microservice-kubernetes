@@ -23,6 +23,18 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
+**Files explanation**
+
+* config.yml: CircleCI configuration file for running the tests
+* app.py: Python app that serves out predictions value
+* Dockerfile: Dockerfile for building the image
+* make_prediction.sh: Give back a predicted value for the house price.
+* Makefile: includes instructions on environment setup and lint tests
+* run_docker.sh: file to get Docker running locally
+* run_kubernetes.sh: file to run the app in kubernetes
+* upload_docker.sh: file to upload the image to docker
+
+
 ## Setup the Environment
 
 * Create a virtualenv and activate it
